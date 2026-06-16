@@ -2,7 +2,7 @@
 
 <img width="1319" height="511" alt="Screenshot 2026-06-16 at 5 28 00 PM" src="https://github.com/user-attachments/assets/d9a9b42a-ce86-4299-9901-d890d489895e" />
 
-# HaveIBeenPwned – Credential Exposure Research
+# HaveIBeenPwned 
 
 ## Overview
 Used HaveIBeenPwned to check whether a personal email address 
