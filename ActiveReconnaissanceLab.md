@@ -18,7 +18,7 @@ Host Details for 172.30.0.20
 Explanation:  
 OS fingerprinting identified the host as Windows 7/Server 2008 family — useful for targeting known vulnerabilities like MS17‑010.
 
-Here is a document of IP addresses and operating systems identified.
+Here is the IP addresses and operating systems identified.
 According to the host details, 172.30.0.20, 172.30.0.30, 172.30.0.40 run on the Mircosoft Windows
 operating systems. To be exact, 172.30.0.20 runs Mircosoft Windows 7 SP0 - SP1, Windows Server
 2008 SP1, Windows Server 2008 R2, Windows 8, or Windows 8.1 Update 1. 172.30.0.30 runs
