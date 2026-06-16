@@ -1,0 +1,51 @@
+Objective: Display the GPA and name of the student
+#List all students’ names and GPA
+Final = open('Final.txt','r')
+file = Final.read()
+print(file)
+
+# Define function to calculate GPA
+def get_GPA(grades): 
+    total = 0 
+    for grade in grades:
+        total += grade  
+    return total / len(grades)
+
+# Open and read contents of the file
+with open("Final.txt", "r") as file:
+    lines = file.readlines()
+    
+# Make an empty dictionary 
+student_dict ={}
+# Loop for each line 
+for part in lines:
+    # Split the line by commas
+    parts = part.split(',')   
+    # Read name portion
+    name = parts[0]
+    # Read grade portion 
+    grades = parts[2:]
+    grades = [float(grade.strip()) for grade in grades]   
+    # Calculate GPA 
+    GPA = get_GPA(grades)
+    # Put GPA and name into empty dictionary
+    student_dict[name] = GPA
+    
+# Display all names and GPA inside dictionary
+for name, GPA in student_dict.items():
+    print(name, GPA)
+    
+# Ask user to enter a student full name
+full_name = input("Enter student full name:")
+
+# Display the GPA for that student
+if full_name in student_dict:
+    print(full_name, student_dict[full_name])
+else:
+    print("not found")
+
+    
+
+
+
+
