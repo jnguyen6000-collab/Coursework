@@ -93,6 +93,7 @@ Explanation:
 The server executed system commands, confirming remote command execution.
 
 What I Learned
+
 How reflected and stored XSS attacks work and how to identify them
 
 How SQL injection can reveal database structure and extract sensitive data
