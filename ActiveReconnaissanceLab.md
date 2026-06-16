@@ -9,14 +9,14 @@ Ping Scan – Discovered Hosts
 <img width="678" height="427" alt="Screenshot 2026-06-16 at 8 23 17 AM" src="https://github.com/user-attachments/assets/c40ae2bc-c662-4e04-9da5-d6e62ab9ced4" />
 
 Explanation:  
-A ping sweep identified active hosts across 172.30.0.0/24 and 172.31.0.0/24. This established the baseline network map.
+A ping sweep identified active hosts across 172.30.0.0/24 and 172.31.0.0/24.
 
 Host Details for 172.30.0.20
 
 <img width="678" height="427" alt="Screenshot 2026-06-16 at 8 25 53 AM" src="https://github.com/user-attachments/assets/f6702a31-f1a2-4e70-8400-d6f793ed5dcc" />
 
 Explanation:  
-OS fingerprinting identified the host as Windows 7/Server 2008 family — useful for targeting known vulnerabilities like MS17‑010.
+OS fingerprinting identified the host as Windows 7/Server 2008 family 
 
 Here is the IP addresses and operating systems identified.
 According to the host details, 172.30.0.20, 172.30.0.30, 172.30.0.40 run on the Mircosoft Windows
