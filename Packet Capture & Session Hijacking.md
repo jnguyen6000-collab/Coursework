@@ -104,8 +104,6 @@ Tools Used
 
 Wireshark
 
-Ettercap
-
 arpspoof
 
 Burp Suite
