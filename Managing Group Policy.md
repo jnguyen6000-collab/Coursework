@@ -1,4 +1,5 @@
 Overview
+
 This lab focused on creating GPOs, editing password policies, linking GPOs, and auditing changes.
 
 Findings & Screenshots
@@ -40,6 +41,7 @@ Explanation:
 RSoP confirmed the application of Default Domain Policy, EventLogGPO, and Domain Controller GPO.
 
 What I Learned
+
 How to configure and link GPOs
 
 How password policies affect domain security
