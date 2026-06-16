@@ -77,10 +77,9 @@ Nessus Essentials
 
 OpenVAS
 
-
-Reflection Question: What is the best countermeasuretowards protecting port scans from an intruder?
+Reflection Question:
+What is the best countermeasuretowards protecting port scans from an intruder?
   
- Performing Active Reconnaissance 
 The best countermeasure towards protecting port scans from an intruder from stealing sensitive information from our network is likely the deny-all approach. Deny-all approach also known as the default deny prevents all access to network, application or system unless it has been authorized to do so (Danielson 2025). By using this countermeasure, the attacker will be less likely to get in the network, system, or application which makes it so that the network is less vulnerable to exploits. This countermeasure provides the most defense since it will block off all ports except for the ones that are allowed which makes it harder for an attacker to gain unauthorized access to those ports. Firewall testing is where someone makes sure that the software in the firewall does what it is supposed to, which is to monitor network traffic on the rules it was set on (Cymulate 2025). It is similar to the deny all approach but the policy and rules set on the firewall might be different depending on the organization. Firewalls need to be tested for possible misconfigurations, making sure the rules are applied, and improving incident response. The firewall needs to be constantly maintained and constantly updated for patches to prevent cyber threats from gaining unauthorized access. By testing the firewall, cybersecurity professionals need to be sure that no misconfigured ports are lying around and make sure there are no vulnerabilities that can be exploited. This countermeasure is the second best option for protecting ports from an attacker. Lastly, there is security awareness training as a countermeasure to teach employees how to identify cyber threats and respond to them (Proofpoint 2026). It may reduce human error but it does not completely remove it. Humans still tend to make mistakes. Security awareness employees understand phishing attacks and malware to some extent. However, it will not provide them with tools to physically protect their open ports. Security awareness might be considered to be the least effective countermeasure towards protecting the ports. 
 
 References
