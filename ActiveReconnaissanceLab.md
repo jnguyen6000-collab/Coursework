@@ -68,6 +68,7 @@ How to identify OS versions and open ports
 How to detect high‑severity vulnerabilities using Nessus/OpenVAS
 
 Tools Used
+
 Zenmap
 
 Wireshark
