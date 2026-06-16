@@ -50,6 +50,14 @@ Nessus MS17‑010 Vulnerability
 Explanation:  
 Nessus detected EternalBlue (MS17‑010), confirming the host was exploitable.
 
+
+Vulnerability title and the Plugin information for MS17-010
+
+<img width="678" height="427" alt="Screenshot 2026-06-16 at 8 33 19 AM" src="https://github.com/user-attachments/assets/12757c10-9770-4b7f-acca-ee7ab16e920b" />
+
+Explanation:
+Nessus describes the Vulnerability with Mircosoft Windows update and suggest to patch the vulnerabilities up.
+
 What I Learned
 How to enumerate networks using Nmap/Zenmap
 
