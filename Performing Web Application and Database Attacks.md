@@ -132,5 +132,4 @@ SentinelOne. “What Is Security Misconfiguration? Types & Prevention.” *Senti
 “What Is Security Posture? | Microsoft Security.” *Microsoft.com*, 2025, [www.microsoft.com/en-us/security/business/security-101/what-is-security-posture](http://www.microsoft.com/en-us/security/business/security-101/what-is-security-posture). 
 
 
-[Lab - Performing Web Application and Database Attacks.md](https://github.com/user-attachments/files/29013860/Lab.-.Performing.Web.Application.and.Database.Attacks.md)
 
