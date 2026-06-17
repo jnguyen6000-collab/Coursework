@@ -91,5 +91,4 @@ Danielson, Lizzie . “Default Deny Cybersecurity Approach Defined | Huntress.�
 Proofpoint. “What Is Security Awareness Training? | Proofpoint US.” *Proofpoint*, 26 Feb. 2021, www.proofpoint.com/us/threat-reference/security-awareness-training.
 
 
-[Lab - Performing Active Reconnaissance.md](https://github.com/user-attachments/files/29009416/Lab.-.Performing.Active.Reconnaissance.md)
 
