@@ -115,7 +115,5 @@ Cisco. (n.d.). *How to handle rogue access points in a Cisco Unified Wireless Ne
 Nile Secure. (n.d.). *What is a rogue access point & how to protect against them*. [https://nilesecure.com/network-security/what-is-a-rogue-access-point-how-to-protect-against-them](https://nilesecure.com/network-security/what-is-a-rogue-access-point-how-to-protect-against-them)   
 
 
-[Nguyen-FinalProjectPart3.md](https://github.com/user-attachments/files/28985804/Nguyen-FinalProjectPart3.md)
-
 
 
