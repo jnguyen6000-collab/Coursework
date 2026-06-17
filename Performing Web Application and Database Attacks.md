@@ -107,7 +107,6 @@ The importance of sanitizing user input and restricting system commands
 Tools Used
 DVWA (Damn Vulnerable Web Application)
 
-MySQL 
 
 JBL Learning
 
