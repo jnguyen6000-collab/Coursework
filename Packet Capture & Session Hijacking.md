@@ -110,7 +110,7 @@ Burp Suite
 
 JBL Learning
 
-[Lab - Performing Packet Capture and Session Hijacking.md](https://github.com/user-attachments/files/29014712/Lab.-.Performing.Packet.Capture.and.Session.Hijacking.md)
+
 
 
 * Scenario: As you learned in this lab, network sniffing is the act of observing communications on the network in either a passive or an active mode. With sniffing, you can see what is being transmitted unprotected on the network and potentially intercept sensitive information. Attackers use sniffers to compromise the confidentiality of data as it flows across a network.
